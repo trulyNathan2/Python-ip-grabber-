@@ -40,3 +40,7 @@
 
 
  </details>
+
+```
+$ pip install pyautogui
+```
