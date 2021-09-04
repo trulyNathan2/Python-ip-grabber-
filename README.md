@@ -30,17 +30,20 @@
 <br />
 
 ---
-
-
-
-
 <!--END_SECTION:activity-->
 
 </details>
 
 
  </details>
-The pyautogui libary is required you can install it by pasting the following command in cmd.
+-The pyautogui libary is required you can install it by pasting the following command in cmd.
+
 ```
 $ pip install pyautogui
 ```
+-To make it into a .exe file to send to your friends install auto-py-to-exe
+
+```
+$ pip install auto-py-to-exe
+```
+
