@@ -46,4 +46,7 @@ $ pip install pyautogui
 ```
 $ pip install auto-py-to-exe
 ```
+-To run it simpily write auto-py-to-exe in cmd and a window should pop up and just fill in the info with the appropriate path. This video explains it better
+
+https://www.youtube.com/watch?v=Y0HN9tdLuJo&t=149s
 
