@@ -40,7 +40,7 @@
 
 
  </details>
-
+The pyautogui libary is required you can install it by pasting the following command in cmd.
 ```
 $ pip install pyautogui
 ```
